@@ -6,7 +6,7 @@ description: >-
 baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
 url: "https://rodrigosilvaluz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: minimal
-github_username:  https://github.com/rodrigosilvaluz/
+github_username:  "/minimal-blog"
 
 
 # Build settings
