@@ -12,6 +12,6 @@ github_username:  "/minimal-blog"
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: /:year/:month/:title
+permalink: /:title
 #plugins:
 
